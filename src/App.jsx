@@ -47,7 +47,6 @@ function App() {
       camera={{ position: [0, 0, 1] }}
     >
       <PlaneGroup />
-      <hemisphereLight args={[0xffffff, 0x000000, 1.0]} />
       <OrbitControls />
     </Canvas>
   );
