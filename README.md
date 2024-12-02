@@ -1,4 +1,4 @@
-# r3f-template
+# Satisfying Squares, a 3D Art Project, with @React-Three/Fiber
 A basic template for R3F projects
 
 ```
@@ -6,4 +6,14 @@ yarn
 yarn dev
 ```
 
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+![Project Preview](./public/screenshot.jpg)
+
+
+A simple JavaScript project using [@React-Three/Fiber](https://r3f.docs.pmnd.rs/getting-started/introduction), Creates an animation features multiple rotating meshes with dynamic colors and scaling.
+
+## Features
+
+- Animated rotation and color-changing meshes
+- Responsive canvas that adjusts to window resizing
+
+Tutorial on [YouTube]()
