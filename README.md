@@ -7,7 +7,7 @@ A simple JavaScript project using [@React-Three/Fiber](https://r3f.docs.pmnd.rs/
 - Animated rotation and color-changing meshes
 - Responsive canvas that adjusts to window resizing
 
-Tutorial on [YouTube]()
+Tutorial on [YouTube](https://youtu.be/W4CwiVEbdvg)
 
 ```
 yarn
